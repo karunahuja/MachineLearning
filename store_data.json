@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Aarav",
+    "rating": 4.5,
+    "feedback": "Great experience and friendly service.",
+    "age": 25
+  },
+  {
+    "name": "Priya",
+    "rating": "four",
+    "feedback": "Good overall, but could be improved.",
+    "age": 30
+  },
+  {
+    "name": "Rohan",
+    "rating": 5.0,
+    "feedback": "Excellent quality and very satisfied."
+  }, {
+    "name": "Rohan",
+    "rating": 5.0,
+    "feedback": "Excellent quality and very satisfied."
+  },
+  {
+    "name": "Simran",
+    "rating": 3.5,
+    "feedback": "Decent experience with some minor issues.",
+    "age": 28
+  },
+  {
+    "name": "Kabir",
+    "rating": 4.8,
+    "feedback": "Really good service and fast response.",
+    "age": 35
+  },
+  {
+    "name": "Ananya",
+    "rating": 4.2,
+    "feedback": "Nice experience and would recommend it.",
+    "age": 26
+  }
+]
